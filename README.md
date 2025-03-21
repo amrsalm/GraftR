@@ -1,4 +1,4 @@
-# gRaphnet <img src="https://img.shields.io/badge/dev-0.1.0-orange" align="right" />
+# graphtR <img src="https://img.shields.io/badge/dev-0.1.0-orange" align="right" />
 
 An experimental R package for learning on graph-structured data using **Graph Neural Networks (GNNs)**.  
 The goal of this package is to bring foundational GNN models to R, beginning with a **Variational Graph Autoencoder (VGAE)** built entirely from scratch using base R.
